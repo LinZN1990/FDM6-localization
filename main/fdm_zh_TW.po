@@ -122,7 +122,7 @@ msgstr "電源管理"
 
 msgctxt "AdvancedSettings|"
 msgid "Avoid sleep mode if there is a scheduled download"
-msgstr ""
+msgstr "避免進入睡眠模式，若有預定的下載操作"
 
 msgctxt "AdvancedSettings|"
 msgid "Allow sleep mode while sharing files"
